@@ -1,0 +1,19 @@
+# MATLAB junk
+*.asv
+*.autosave
+*.fig
+*.mat
+slprj/
+
+# Document and Video junk
+*.docx
+*.doc
+*.pdf
+*.rar
+*.zip
+*.mp4
+*.avi
+~$*
+
+# Folders
+html/

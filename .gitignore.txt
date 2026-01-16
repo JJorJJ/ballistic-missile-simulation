@@ -1,5 +1,0 @@
-*.asv
-*.autosave
-*.fig
-*.mat
-slprj/
