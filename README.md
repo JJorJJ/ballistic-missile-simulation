@@ -1,6 +1,6 @@
 # Ballistic Missile Interception Simulation
 
-**Course Project: DRSP** **Language:** MATLAB  
+**DRSP** **Language:** MATLAB  
 
 ## Overview
 This project simulates the trajectory of a ballistic missile and evaluates different methods for interceptor guidance. It models the missile's flight path under noisy measurement conditions and compares two prediction algorithms—**Polynomial Fitting** and the **Wiener Filter**—to determine the optimal launch time for an Arrow interceptor.
