@@ -1,8 +1,6 @@
 % DRSP course project
 % Ballistic Missile Interception Simulation and Prediction
 % Author: Jordan Jacob
-% ID: 316495522
-% Date: 12/07/2025
 
 %% Clear workspace and close all figures
 clear; 
